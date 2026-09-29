@@ -12,3 +12,7 @@
 
 - GitHub: [frost13ru-svg](https://github.com/frost13ru-svg)
 - Email: frost13.ru@gmail.com
+Git setup verified:
+- SSH auth OK
+- gh CLI OK
+- push to main OK
